@@ -3,7 +3,7 @@
 # To run this locally
 Install Postgress https://www.postgresql.org/
 setup user for postgres local host server (127.0.0.1) with following credentials: <br />
-username: postgres
+username: postgres <br />
 password: password
 
 # Run db migration
